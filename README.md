@@ -46,7 +46,7 @@ To provide a better picture of files and folders that containers base images hav
 
 
 
-### Files and Folders in containers base images
+### Files and Folders in containers base images (these are not used from Kernal)
 
 ```
     /bin: contains binary executable files, such as the ls, cp, and ps commands.
