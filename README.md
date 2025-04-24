@@ -66,7 +66,7 @@ To provide a better picture of files and folders that containers base images hav
 
 
 
-### Files and Folders that containers use from host operating system
+### Files and Folders that containers use from host operating system or from kernal
 
 ```
     The host's file system: Docker containers can access the host file system using bind mounts, which allow the container to read and write files in the host file system.
